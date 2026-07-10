@@ -82,25 +82,18 @@ Neste perfil você encontrará projetos desenvolvidos durante meus estudos, desa
 
 <br/><br >
 
-### 📊 Estatisticas
+### 📊 Estatisticas <br><br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="250" 
-    width= "380"
-    style="padding-right: 20px;" 
-    src="https://github-stats-extended.vercel.app/api?username=Claudineiii&theme=radical" 
+<div align="left">
+  <img
+    height="220"
+    src="https://github-stats-extended.vercel.app/api?username=Claudineiii&custom_title=Minhas%20estat%C3%ADsticas%20GitHub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"
+    alt="Minhas Estatísticas do GitHub"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      width= "200"
-      style="padding-right: 50px;" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Claudineiii&layout=donut-vertical&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Claudineiii&layout=donut-vertical&langs_count=4&theme=radical" 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    height="220"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Claudineiii&langs_count=4&theme=tokyonight"
+    alt="Linguagens Mais Usadas"
   />
-
-</p>
+</div>
